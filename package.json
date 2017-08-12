@@ -1,0 +1,11 @@
+{
+  "name": "project_routine",
+  "version": "1.0.0",
+  "description": "Class routine web app for CSE 45 batch by gourab yousuf basir batch 45 CSE City university",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gourab Yousuf Basir",
+  "license": "ISC"
+}

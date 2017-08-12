@@ -1,0 +1,12 @@
+[class*="colx"]{
+    width: 100% !important;
+}
+@media only screen and (min-width: 700px){
+    .colx{
+        width: 60% !important;
+    }
+}
+.top{
+    background-color: #483232;
+    height: 180px;
+}
